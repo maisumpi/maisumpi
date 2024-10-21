@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @maisumpi
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any project
   
 <!---
